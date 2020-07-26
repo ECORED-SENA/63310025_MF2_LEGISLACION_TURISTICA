@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+  <g id="Grupo_9322" data-name="Grupo 9322" transform="translate(-396 -2423)">
+    <g id="Elipse_598" data-name="Elipse 598" transform="translate(396 2423)" fill="#afdddb" stroke="#619694" stroke-width="2">
+      <circle cx="59" cy="59" r="59" stroke="none"/>
+      <circle cx="59" cy="59" r="58" fill="none"/>
+    </g>
+    <g id="Grupo_9284" data-name="Grupo 9284" transform="translate(210.518 2295.523)">
+      <path id="Trazado_18700" data-name="Trazado 18700" d="M233.8,168.419s2.564,8.859,14.4,8.859" transform="translate(34.114 20.699)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_10" data-name="Línea 10" y2="26.242" transform="translate(239.815 178.705)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_11" data-name="Línea 11" y2="26.242" transform="translate(251.078 178.705)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_12" data-name="Línea 12" y2="10.858" transform="translate(267.914 179.11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_18701" data-name="Trazado 18701" d="M237.957,161.535l-5.573,5.573H212.326A4.326,4.326,0,0,0,208,171.435V191.1a2.249,2.249,0,0,0,2.25,2.248h69.812a2.249,2.249,0,0,0,2.25-2.248v-5.764h0a18.231,18.231,0,0,0-18.23-18.23h-5.573l-5.576-5.573" transform="translate(0 11.597)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_13" data-name="Línea 13" x1="13.121" transform="translate(254.794 189.968)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_14" data-name="Línea 14" x2="26.125" transform="translate(232.384 178.705)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_18702" data-name="Trazado 18702" d="M209.6,175.2h12.53V163.935" transform="translate(2.116 14.77)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_15" data-name="Línea 15" x2="11.853" transform="translate(227.962 189.968)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectángulo_2414" data-name="Rectángulo 2414" width="14.739" height="14.739" transform="translate(234.734 163.187) rotate(-45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

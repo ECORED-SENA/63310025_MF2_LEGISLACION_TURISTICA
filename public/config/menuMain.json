@@ -1,0 +1,170 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/intro.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "sector",
+    "title": "1. Sector turístico",
+    "breadcrumb": ["Inicio","sector"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sector",
+        "title": "1.1 Sector oficial",
+        "anchor": "sectoro"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sector",
+        "title": "1.2 Sector privado",
+        "anchor": "sectorp"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sector",
+        "title": "1.3 Sector mixto",
+        "anchor": "sectorm"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "zonas",
+    "title": "2. Zonas de desarrollo turístico",
+    "breadcrumb": ["Inicio","zonas"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "zonas",
+        "title": "2.1 Tipos de turismo",
+        "anchor": "tipos"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "zonas",
+        "title": "2.2 Zonas Francas",
+        "anchor": "zonasf"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "zonas",
+        "title": "2.3 Capacidad de carga",
+        "anchor": "capacidad"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "establecimientos",
+    "title": "3. Establecimientos hoteleros",
+    "breadcrumb": ["Inicio","establecimientos"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "establecimientos",
+        "title": "3.1 Clasificación",
+        "anchor": "clasificacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "establecimientos",
+        "title": "3.2 Contrato de hospedaje",
+        "anchor": "contrato"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "establecimientos",
+        "title": "3.3 Tarifas",
+        "anchor": "tarifas"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "agencias",
+    "title": "4. Agencias de viajes",
+    "breadcrumb": ["Inicio","agencias"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "agencias",
+        "title": "4.1 Clasificación",
+        "anchor": "clasificacion2"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "transporte",
+    "title": "5. Transporte de pasajeros",
+    "breadcrumb": ["Inicio","transporte"],
+    "path": "pages/5-tema.html"
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "establecimientos2",
+    "title": "6. Establecimientos de gastronomía",
+    "breadcrumb": ["Inicio","establecimientos2"],
+    "path": "pages/6-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "establecimientos2",
+        "title": "6.1 Clasificación",
+        "anchor": "clasificacion3"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "empresas",
+    "title": "7. Empresas captadoras de ahorro para viajes",
+    "breadcrumb": ["Inicio","empresas"],
+    "path": "pages/7-tema.html"
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "sistema",
+    "title": "8. Sistema de tiempo compartido",
+    "breadcrumb": ["Inicio","sistema"],
+    "path": "pages/8-tema.html"
+  },
+  {
+    "id": 10,
+    "icon": "fa fa-file-text",
+    "slug": "operadores",
+    "title": "9. Operadores profesionales de congresos, ferias y convenciones",
+    "breadcrumb": ["Inicio","operadores"],
+    "path": "pages/9-tema.html"
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  } 
+]
